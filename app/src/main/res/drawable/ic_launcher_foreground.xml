@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Camera Bracket Corners (Safe zone 66dp) -->
+    <!-- Top-Left Bracket -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 28 42 L 28 28 L 42 28" />
+        
+    <!-- Top-Right Bracket -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 80 42 L 80 28 L 66 28" />
+        
+    <!-- Bottom-Left Bracket -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 28 66 L 28 80 L 42 80" />
+        
+    <!-- Bottom-Right Bracket -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 80 66 L 80 80 L 66 80" />
+
+    <!-- Barcode Stripes -->
+    <path
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="3"
+        android:strokeLineCap="butt"
+        android:pathData="M 36 34 L 36 74 M 42 34 L 42 74" />
+        
+    <path
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="5"
+        android:strokeLineCap="butt"
+        android:pathData="M 49 34 L 49 74" />
+        
+    <path
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="2"
+        android:strokeLineCap="butt"
+        android:pathData="M 56 34 L 56 74" />
+        
+    <path
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="4"
+        android:strokeLineCap="butt"
+        android:pathData="M 63 34 L 63 74 M 72 34 L 72 74" />
+
+    <!-- Glowing Red/Green Horizontal Laser Scanner Beam -->
+    <path
+        android:strokeColor="#0EA5E9"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M 23 54 L 85 54" />
+</vector>

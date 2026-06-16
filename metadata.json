@@ -1,0 +1,6 @@
+{
+  "name": "Barcode Scanner",
+  "description": "An intelligent barcode scanner with local scan history and smart product details powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
